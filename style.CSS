@@ -134,6 +134,7 @@ body {
     background-color: rgb(243, 199, 28);
     float: right;
     overflow: hidden;
+    margin-top: -42px;
     top: 0;
     left: 0;
     height: 101px;
@@ -548,4 +549,20 @@ a:active {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.utmanarlogga{
+  width: 35px;
+  margin-right: 10px;
+  position: relative; 
+  top: 13px;
+  float: right;
+}
+
+.scoutlilja{
+  width: 41px;
+  margin-right: 10px;
+  position: relative; 
+  top: 12px;
+  float: right;
 }
