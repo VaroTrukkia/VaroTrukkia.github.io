@@ -552,10 +552,10 @@ a:active {
 }
 
 .utmanarlogga{
-  width: 35px;
+  width: 33px;
   margin-right: 10px;
   position: relative; 
-  top: 13px;
+  top: 14px;
   float: right;
 }
 
@@ -565,4 +565,27 @@ a:active {
   position: relative; 
   top: 12px;
   float: right;
+}
+
+.sandbylogga{
+  width: 43px;
+  margin-right: 10px;
+  position: relative; 
+  top: 12px;
+  float: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .utmanarlogga{
+    margin-right: 7px;
+    width: 29.7px;
+  }
+  .scoutlilja{
+    margin-right: 7px;
+    width: 36.9px;
+  }
+  .sandbylogga{
+    margin-right: 7px;
+    width: 38.7px;
+  }
 }
