@@ -572,8 +572,7 @@ a:active {
   margin-right: 10px;
   position: relative; 
   top: 12px;
-  float: right;
-  bottom: 0;
+  float: right; 
 }
 
 @media only screen and (max-width: 768px) {
